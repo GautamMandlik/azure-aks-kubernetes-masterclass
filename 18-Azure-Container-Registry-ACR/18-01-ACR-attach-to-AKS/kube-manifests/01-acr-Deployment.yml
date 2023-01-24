@@ -19,6 +19,6 @@ spec:
           image: aksdevopsreg.azurecr.io/app1/kube-nginx-acr:v1
           imagePullPolicy: Always
           ports:
-            - containerPort: 8080
+            - containerPort: 80
 
    
